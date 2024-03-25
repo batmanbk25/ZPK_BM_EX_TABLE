@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>ZMS_EXTB</ARBGB>
+    <MASTERLANG>E</MASTERLANG>
+    <STEXT>Excel table</STEXT>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMS_EXTB</ARBGB>
+     <MSGNR>000</MSGNR>
+     <TEXT>No data to output</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMS_EXTB</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>Field &quot;&amp;1&quot; is required</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMS_EXTB</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>Value &apos;&amp;2&apos; of field &apos;&amp;1&apos; is invalid</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMS_EXTB</ARBGB>
+     <MSGNR>003</MSGNR>
+     <TEXT>&amp;1 need &amp;2 today</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMS_EXTB</ARBGB>
+     <MSGNR>004</MSGNR>
+     <TEXT>Total record: &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMS_EXTB</ARBGB>
+     <MSGNR>005</MSGNR>
+     <TEXT>Only Customizing Tables Can Be Used</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMS_EXTB</ARBGB>
+     <MSGNR>006</MSGNR>
+     <TEXT>File &quot;&amp;1&quot; was not exists</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMS_EXTB</ARBGB>
+     <MSGNR>007</MSGNR>
+     <TEXT>Table/View &quot;&amp;1&quot; was not configred</TEXT>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>
